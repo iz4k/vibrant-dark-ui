@@ -1,10 +1,10 @@
 {
-  "name": "atom-dark-ui",
+  "name": "vibrant-dark-ui",
   "theme": "ui",
-  "version": "0.51.1",
-  "description": "A dark UI theme for Atom",
+  "version": "0.1.1",
+  "description": "A vibrant edition of the dark UI theme for Atom",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/iz4k/vibrant-dark-ui",
   "engines": {
     "atom": ">0.40.0"
   }
